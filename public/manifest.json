@@ -1,0 +1,16 @@
+{
+  "manifest_version":2,
+  "name":"Improve Vocab",
+  "author":"YASH SANGHAVI",
+  "version":"1.0.1",
+  "description":"Replace new tab screen with English word",
+  "icons":{
+    "16":"darwinFav16.ico",
+    "48":"darwinFav48",
+    "128":"darwinFav128"
+  },
+  "chrome_url_overrides":{
+    "newtab":"index.html"
+  }
+
+}
