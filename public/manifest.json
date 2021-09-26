@@ -5,9 +5,7 @@
   "version":"1.0.1",
   "description":"Replace new tab screen with English word",
   "icons":{
-    "16":"darwinFav16.ico",
-    "48":"darwinFav48",
-    "128":"darwinFav128"
+    "16":"favicon.ico"
   },
   "chrome_url_overrides":{
     "newtab":"index.html"
